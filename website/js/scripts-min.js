@@ -1,1 +1,0 @@
-$(document).ready(function(){$(location.hash).addClass("target");$("section").on("click","article",function(){$(".target").removeClass("target");$(this).addClass("target")})});
