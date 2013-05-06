@@ -5,9 +5,9 @@ A CSS3 only product wall that demonstrates the use of the :target pseudo-selecto
 
 ##Author
 
-[Ian Lunn](http://ianlunn.co.uk/)
-Twitter: [@IanLunn](http://twitter.com/IanLunn)
-GitHub: [IanLunn](http://github.com/IanLunn)
+- [Ian Lunn](http://ianlunn.co.uk/)
+- Twitter: [@IanLunn](http://twitter.com/IanLunn)
+- GitHub: [IanLunn](http://github.com/IanLunn)
 
 ##License
 
