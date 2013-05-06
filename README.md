@@ -1,7 +1,9 @@
 CSS3-Product-Wall
 =================
 
-A CSS3 only product wall that demonstrates the use of the :target pseudo-selector.
+A [CSS3 only product wall](http://ianlunn.github.io/CSS3-Product-Wall/) that demonstrates the use of the :target pseudo-selector.
+
+[View the demo](http://ianlunn.github.io/CSS3-Product-Wall/).
 
 ##Author
 
