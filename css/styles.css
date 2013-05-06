@@ -178,10 +178,10 @@ footer {
   font-size: 1em;
   word-break: break-word;
 }
-footer ul {
+footer .credits {
   width: 250px;
 }
-footer ul li {
+footer .credits li {
   display: inline-block;
   width: 32%;
 }
