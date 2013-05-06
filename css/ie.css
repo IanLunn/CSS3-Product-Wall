@@ -1,0 +1,13 @@
+section article {
+  *margin-left: -1px;
+}
+section article .info {
+  display: none;
+  font-size: 100%;
+}
+
+section article.target .info {
+  display: block;
+  height: 100%;
+  max-height: 999px;
+}
